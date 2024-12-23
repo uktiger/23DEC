@@ -1,0 +1,8 @@
+2024-12-23 12:25:15,201 - INFO - Starting data ingestion process.
+2024-12-23 12:25:15,202 - INFO - Loading data from data/external/loan_approval_dataset.csv
+2024-12-23 12:25:15,233 - INFO - Data loaded successfully.
+2024-12-23 12:25:15,233 - INFO - Splitting data into train and test sets.
+2024-12-23 12:25:15,239 - INFO - Data split successfully.
+2024-12-23 12:25:15,242 - INFO - Saving data to data/raw
+2024-12-23 12:25:15,287 - INFO - Data saved successfully at data/raw
+2024-12-23 12:25:15,287 - INFO - Data ingestion pipeline completed successfully.
