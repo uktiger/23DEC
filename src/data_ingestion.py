@@ -29,7 +29,7 @@ def load_data(file_path):
         logging.error(f"Error loading data from {file_path}: {str(e)}")
         raise
 
-def split_data(df, target_column, drop_columns=None, test_size=0.25, random_state=0):
+def split_data(df, target_column, drop_columns=None, test_size=0.30, random_state=0):
     """
     Split the DataFrame into train and test sets.
     Args:
